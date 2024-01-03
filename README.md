@@ -30,15 +30,15 @@ The commands and usage of the packages are discussed in the article in great det
 
 # Supplementary files 
 
-F4_derivation.nb : This file contains derivation of analytical continuations of Appell F4 using the package. 
+F4_derivation.nb : This file contains the derivation of analytical continuations of Appell F4 using the package. 
 
 
 KdF_derivation.nb : This file contains the derivation of analytic continuations relevant to the study of the Feynman integral considered in the paper.
 
 
-Ac_all_combined.nb : This file contains all the combined analytic continuations relevant to the calculations of Feynman integral considered in the paper. 
+Ac_all_combined.nb : This file contains all the combined analytic continuations relevant to the calculations of the Feynman integral considered in the paper. 
 
-transformations_HMS.nb : This file contains derivation of various transformation formulas from the book [2].
+transformations_HMS.nb : This file contains the derivation of various transformation formulas from the book [2].
 
 
 
